@@ -1,0 +1,11 @@
+body {
+    background-color: #1d1d1d;
+    font-family: "Proxima Nova";
+}
+#demo {
+    background: url('../res/logo.png');
+    width: 200px;
+    height: 200px;
+    margin-top: 335px;
+    margin-left: 855px;
+}
